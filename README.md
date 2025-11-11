@@ -1,6 +1,7 @@
 <!---
 {
   "id": "99787eda-617a-4a68-b9a4-d60ec5c5c303",
+  "teaches": "Introduction to NASM on Linux",
   "depends_on": [],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
