@@ -2,7 +2,7 @@
 {
   "id": "99787eda-617a-4a68-b9a4-d60ec5c5c303",
   "teaches": "Introduction to NASM on Linux",
-  "depends_on": [],
+  "depends_on": ["2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-01",
   "keywords": ["assembly", "NASM", "syscall", "x86_64", "Linux"]
